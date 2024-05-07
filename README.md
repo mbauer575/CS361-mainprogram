@@ -15,7 +15,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Requirements:
 
-This website requires the use of a backend service to store and retrieve data. The source code for that can be found [here](https://github.com/mbauer575/CS261-filestore).
+This website requires the use of a backend service to store and retrieve data. The source code for that can be found [here](https://github.com/mbauer575/CS361-datastore).
 
 
 ## Learn More
